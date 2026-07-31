@@ -1,3 +1,42 @@
+<div align="center">
+
+# 🗣️ EnglishHindi
+
+**Learn Hindi and English together — bilingual phrases with audio pronunciation, flashcards, and quizzes.**
+
+[![Download on the App Store](https://img.shields.io/badge/Download-App%20Store-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/app/id6759470561](https://apps.apple.com/app/id6759470561)
+[![Website](https://img.shields.io/badge/website-luminadevapps.com-1575F9)](https://luminadevapps.com)
+
+Made by [**Lumina Dev Apps**](https://luminadevapps.com) · Oshawa, Ontario, Canada
+
+</div>
+
+---
+
+## Overview
+
+Learn Hindi and English together — bilingual phrases with audio pronunciation, flashcards, and quizzes.
+
+## 📲 Download
+
+[Download on the App Store](https://apps.apple.com/app/id6759470561](https://apps.apple.com/app/id6759470561) — per-country links below.
+
+## 💬 Support
+
+- 🌐 [luminadevapps.com](https://luminadevapps.com)
+- ✉️ support@luminadevapps.com
+
+## About
+
+Developed by **Lumina Dev Apps**, an iOS & macOS studio in Oshawa, Ontario, Canada — apps used across 57 countries.
+
+© 2026 Lumina Dev Apps — a division of Direct Parcel Distributors Inc.
+
+---
+
+<details>
+<summary>🌍 App Store links by country</summary>
+
 # Lumina Dev Apps — App Store Links
 
 _Generated Apr 24, 2026 at 14:17_
@@ -212,3 +251,6 @@ _Generated Apr 24, 2026 at 14:17_
 
 ---
 
+
+
+</details>
